@@ -10,5 +10,9 @@
 	"name": "Spawn Trigger Coins",
 	"version": "v1.0.0",
 	"developer": "Capeling",
-	"description": "Adds spawn trigger ability to user coins"
+	"description": "Adds spawn trigger ability to user coins",
+	"links": {
+		"source": "https://github.com/Capeling/spawn_trigger_coins",
+		"homepage": "https://twitter.com/capelingg"
+	}
 }
